@@ -2,7 +2,7 @@
 
 <div align = 'center'> 
 
-<img src="/assets/dev-working_rounded.gif" width='70%'>
+<img src="/assets/dev-working_rounded.gif" width='50%'>
 
 
  <p>
@@ -18,6 +18,20 @@
  
 ![Totals Hits](https://komarev.com/ghpvc/?username=pinklaosa&style=flat&color=orange&label=PROFILE+VIEWS)
 
+<p align='center'>
+      <img src="/assets/c.png" alt="java" width="65" height="65"/> 
+      <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
+      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
+      <img src="/assets/php.png" alt="java" width="65" height="65"/> 
+      <img src="/assets/javascript.png" alt="java" width="65" height="65"/> 
+      <img src="/assets/react.png" alt="java" width="65" height="65"/> 
+      <img src="/assets/node-js.png" alt="java" width="65" height="65"/> 
+      <img src="/assets/vue.png" alt="java" width="65" height="65"/> 
+      <img src="/assets/laravel.png" alt="java" width="65" height="65"/> 
+      <img src="/assets/flutter.png" alt="java" width="65" height="65"/> 
+      <img src="/assets/mysql.png" alt="java" width="65" height="65"/>     
+ </p>
+ 
 </div>
 
 <hr></hr>
@@ -34,9 +48,17 @@
 - ⚡ Fun fact: ...
 
 <p align='center'>
+      <img src="/assets/c.png" alt="java" width="65" height="65"/> 
       <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
-      
+      <img src="/assets/php.png" alt="java" width="65" height="65"/> 
+      <img src="/assets/javascript.png" alt="java" width="65" height="65"/> 
+      <img src="/assets/react.png" alt="java" width="65" height="65"/> 
+      <img src="/assets/node-js.png" alt="java" width="65" height="65"/> 
+      <img src="/assets/vue.png" alt="java" width="65" height="65"/> 
+      <img src="/assets/laravel.png" alt="java" width="65" height="65"/> 
+      <img src="/assets/flutter.png" alt="java" width="65" height="65"/> 
+      <img src="/assets/mysql.png" alt="java" width="65" height="65"/>     
  </p>
 
 <hr></hr>
