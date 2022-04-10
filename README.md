@@ -21,22 +21,6 @@
 
 <hr></hr>
 
-<p align='center'>
-      <img src="/assets/c.png" alt="java" width="65" height="65"/> 
-      <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
-      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
-      <img src="/assets/php.png" alt="java" width="65" height="65"/> 
-      <img src="/assets/javascript.png" alt="java" width="65" height="65"/> 
-      <img src="/assets/djs.png" alt="java" width="65" height="65"/> 
-      <img src="/assets/react.png" alt="java" width="65" height="65"/> 
-      <img src="/assets/node-js.png" alt="java" width="65" height="65"/> 
-      <img src="/assets/express.png" alt="java" width="65" height="65"/> 
-      <img src="/assets/vue.png" alt="java" width="65" height="65"/> 
-      <img src="/assets/laravel.png" alt="java" width="65" height="65"/> 
-      <img src="/assets/flutter.png" alt="java" width="65" height="65"/> 
-      <img src="/assets/mysql.png" alt="java" width="65" height="65"/>     
- </p>
-
 ### <img src='/assets/Developer.gif' width='25px'> About me : <img width="20%" align="right" alt="Github Image" src="/assets/cat.gif" /><br>
 
 - ⚡ I'm new graduate from Information technology at the Kasetsart university Sriracha campus. 
