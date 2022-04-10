@@ -45,11 +45,11 @@
 
 <div>
  <a href='https://github.com/pinklaosa'>
-  <img src='http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pinklaosa&theme=nord_dark' width="100%" />
+  <img src='http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pinklaosa&theme=nord_dark' width="99%" />
 
-  <img src='http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pinklaosa&theme=nord_dark' width="33%" />
-  <img src='http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pinklaosa&theme=nord_dark' width="33%"/>
-  <img src='http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pinklaosa&theme=nord_dark' width="33%"/>
+  <img src='http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pinklaosa&theme=nord_dark' width="32.5%" />
+  <img src='http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pinklaosa&theme=nord_dark' width="32.5%"/>
+  <img src='http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pinklaosa&theme=nord_dark' width="32.5%"/>
  
  </a>
  </div>
