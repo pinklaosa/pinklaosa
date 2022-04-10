@@ -1,8 +1,8 @@
-# Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+# Hi there! <img src="/assets/Hi.gif" width="29px">
 
 <div align = 'center'> 
 
-<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" width='70%'>
+<img src="/assets/dev-working_rounded.gif" width='70%'>
 
 
  <p>
@@ -22,7 +22,7 @@
 
 <hr></hr>
 
-### <img src='https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif' width='25px'> About me : 
+### <img src='/assets/Developer.gif' width='25px'> About me : 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
