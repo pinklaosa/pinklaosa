@@ -2,7 +2,7 @@
 
 <div align = 'center'> 
 
-<img src="/assets/dev-working_rounded.gif" width='50%'>
+<img src="/assets/dev-working_rounded.gif" width='70%'>
 
 
  <p>
@@ -33,6 +33,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<hr></hr>
+
 <p align='center'>
       <img src="/assets/c.png" alt="java" width="65" height="65"/> 
       <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
@@ -42,6 +44,7 @@
       <img src="/assets/djs.png" alt="java" width="65" height="65"/> 
       <img src="/assets/react.png" alt="java" width="65" height="65"/> 
       <img src="/assets/node-js.png" alt="java" width="65" height="65"/> 
+      <img src="/assets/express.png" alt="java" width="65" height="65"/> 
       <img src="/assets/vue.png" alt="java" width="65" height="65"/> 
       <img src="/assets/laravel.png" alt="java" width="65" height="65"/> 
       <img src="/assets/flutter.png" alt="java" width="65" height="65"/> 
