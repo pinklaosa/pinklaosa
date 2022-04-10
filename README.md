@@ -4,7 +4,6 @@
 
 <img src="/assets/dev-working_rounded.gif" width='70%'>
 
-
  <p>
    <strong>
      Bachelor of Science in Information and technology major <br>
@@ -22,16 +21,14 @@
 
 <hr></hr>
 
-### <img src='/assets/Developer.gif' width='25px'> About me : 
+### <img src='/assets/Developer.gif' width='25px'> About me : <img width="20%" align="right" alt="Github Image" src="/assets/cat.gif" /><br>
 
-- 🔭 I’m currently working on ... <img width="15%" align="right" alt="Github Image" src="https://github.com/SP-XD/SP-XD/blob/main/images/linux_rounded.gif?raw=true" /><br>
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ I'm new graduate from Information technology at the Kasetsart university Sriracha campus. 
+- 🌱 I'm on track for learning more about Full stack developer. 
+- 👯 When I was in collage, my friend always consulted me about his development then I can solve the problem for them.
+- 💬 Ask me about D3.js , Algorithm problem 
+- 🤔 I’m looking for work.
+- 😄 Pronouns: "มหาเทพ" this my friends call me
 
 <hr></hr>
 
@@ -65,3 +62,8 @@
  
  </a>
  </div>
+ 
+ <hr></hr>
+ <div align='center'>
+ <img src='/assets/dino_rounded.gif' width='90%' />
+</div>
