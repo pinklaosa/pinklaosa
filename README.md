@@ -1,4 +1,4 @@
-# Hi there! <img src="/assets/Hi.gif" width="29px">
+# Hi I'm Pinklao! <img src="/assets/Hi.gif" width="29px">
 
 <div align = 'center'> 
 
@@ -26,7 +26,7 @@
 - ⚡ I'm new graduate from Information technology at the Kasetsart university Sriracha campus. 
 - 🌱 I'm on track for learning more about Full stack developer. 
 - 👯 When I was in collage, my friend always consulted me about his development then I can solve the problem for them.
-- 💬 Ask me about D3.js , Algorithm problem 
+- 💬 Ask me about Algorithm problem , D3.js and React.js
 - 🤔 I’m looking for work.
 - 😄 Pronouns: "มหาเทพ" this my friends call me
 
@@ -67,3 +67,4 @@
  <div align='center'>
  <img src='/assets/dino_rounded.gif' width='90%' />
 </div>
+
