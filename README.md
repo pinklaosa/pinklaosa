@@ -27,7 +27,7 @@
 - 🌱 I'm on track for learning more about Full stack developer. 
 - 👯 When I was in collage, my friend always consulted me about his development then I can solve the problem for them.
 - 💬 Ask me about Algorithm problem , D3.js and React.js
-- 🤔 I’m looking for work.
+<!-- - 🤔 I’m looking for work. -->
 <!-- - 😄 Pronouns: "มหาเทพ" this my friends call me -->
 
 <hr></hr>
