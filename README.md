@@ -38,15 +38,18 @@
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
       <img src="/assets/php.png" alt="java" width="65" height="65"/> 
       <img src="/assets/javascript.png" alt="java" width="65" height="65"/> 
-      <img src="/assets/ts.png" alt="java" width="65" height="65"/> 
-      <img src="/assets/djs.png" alt="java" width="65" height="65"/> 
+      <img src="/assets/ts.png" alt="java" width="65" height="65"/>  
       <img src="/assets/react.png" alt="java" width="65" height="65"/> 
       <img src="/assets/node-js.png" alt="java" width="65" height="65"/> 
       <img src="/assets/express.png" alt="java" width="65" height="65"/> 
       <img src="/assets/vue.png" alt="java" width="65" height="65"/> 
       <img src="/assets/laravel.png" alt="java" width="65" height="65"/> 
       <img src="/assets/flutter.png" alt="java" width="65" height="65"/> 
+      <img src="/assets/djs.png" alt="java" width="65" height="65"/>
+      <img src="/assets/echarts.png" alt="java" width="65" height="65"/>
       <img src="/assets/mysql.png" alt="java" width="65" height="65"/>     
+      <img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" alt="java" width="65" height="65"/>  
+      
  </p>
 
 <hr></hr>
