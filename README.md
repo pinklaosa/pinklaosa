@@ -23,7 +23,6 @@
 
 ### <img src='/assets/Developer.gif' width='25px'> About me : <img width="20%" align="right" alt="Github Image" src="/assets/cat.gif" /><br>
 
-- ⚡ I'm new graduate from Information technology at the Kasetsart university Sriracha campus. 
 - 🌱 I'm on track for learning more about Full stack developer. 
 - 👯 When I was in collage, my friend always consulted me about his development then I can solve the problem for them.
 - 💬 Ask me about Algorithm problem , D3.js and React.js
@@ -48,7 +47,7 @@
       <img src="/assets/djs.png" alt="java" width="65" height="65"/>
       <img src="/assets/echarts.png" alt="java" width="65" height="65"/>
       <img src="/assets/mysql.png" alt="java" width="65" height="65"/>     
-      <img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" alt="java" width="65" height="65"/>  
+      <img src="https://pbs.twimg.com/profile_images/1142154201444823041/O6AczwfV_400x400.png" alt="java" width="65" height="65"/>  
       
  </p>
 
