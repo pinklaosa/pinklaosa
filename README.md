@@ -20,14 +20,6 @@ Let’s connect and collaborate to turn great ideas into reality! <br>
 
 <hr></hr>
 
-
-- 🌱 I'm on track for learning more about Full stack developer. 
-- 👯 When I was in collage, my friend always consulted me about his development then I can solve the problem for them.
-<!-- - 🤔 I’m looking for work. -->
-<!-- - 😄 Pronouns: "มหาเทพ" this my friends call me -->
-
-<hr></hr>
-
 <p align='center'>
       <img src="/assets/c.png" alt="java" width="65" height="65"/> 
       <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
