@@ -4,7 +4,13 @@
 
  <p>
    <strong>
-     I'm Full-stack developer <br>
+     I am a Software Engineer skilled in crafting dynamic and intuitive user interfaces, with a specialization in data visualization solutions that empower users to interact meaningfully with complex datasets. By leveraging modern frontend technologies like React.js, Redux Toolkit, and Material-UI, I design scalable, user-focused applications that deliver impactful experiences aligned with user requirements.
+
+With a strong understanding of React.js best practices, I develop clean, maintainable, and high-performance codebases that ensure scalability and ease of collaboration. Beyond frontend development, I build robust and efficient REST APIs using TypeScript and Express.js. My skill set is further enhanced by proficiency in Go, Python, PHP, Java, and Flutter, enabling me to contribute across the software development stack.
+
+With a passion for innovation and a commitment to user-centric design, I excel in creating systems capable of handling large datasets (1M+ data points) while ensuring speed, reliability, and scalability. I am eager to tackle challenging projects that push the boundaries of web development and deliver real-world impact.
+
+Let’s connect and collaborate to turn great ideas into reality! <br>
    </strong>
   </p>
  
