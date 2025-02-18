@@ -35,13 +35,6 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)  
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)  
 
----
-
-## 📈 **GitHub Stats**  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pinklaosa&show_icons=true&theme=tokyonight" width="400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pinklaosa&theme=tokyonight" width="400" />
-</p>
 
 ---
 
