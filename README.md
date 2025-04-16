@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Pinklao Sadee!  
+# 👋 Hi, I'm Pinklao Sadee! (I love coding!)
 🚀 Full-Stack Developer | React.js | Golang | Express.js  
 
 📌 Passionate about building scalable and high-performance applications with a focus on **clean architecture, maintainability, and user-centric design**.  
