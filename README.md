@@ -33,13 +33,6 @@
   <img src="https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white" />
 </p>
 
----
-
-
-## 📚 **Certifications**  
-- 🎓 **Certified Programming with Google Go** - University of California, Irvine  
-  - 📜 [View Certificate](https://coursera.org/share/8a9b77dd0ab0e9c192c5bd32a949978a)  
-  - 💻 [GitHub Practice Repo](https://github.com/pinklaosa/started_go)  
 
 ---
 
